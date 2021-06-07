@@ -1,0 +1,19 @@
+AUTENTIKASI AKUN :
+1. klik kanan di folder /xampp/htdocs/
+2. pilih Git Bash Here
+3. git config --global user.email "email kalian"
+
+CARA CLONE : 
+1. klik kanan di folder /xampp/htdocs/
+2. pilih Git Bash Here
+3. git clone https://github.com/snder12/tubes_pwb.git
+
+CARA FORK : 
+1. buka browser
+2. ketik https://github.com/snder12/tubes_pwb.git
+3. disebelah kanan atas ada opsi "Fork" dan di klik
+4. klik kanan di folder /xampp/htdocs/
+5. pilih Git Bash Here
+6. git remote add upstream git://github.com/snder12/tubes_pwb
+7. git fetch upstream
+8. git pull upstream main

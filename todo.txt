@@ -1,0 +1,14 @@
+# yang dikerjain selanjutnya
+
+1. tabel
+2. font
+3. logo
+4. logo di sidebar (kalo bisa)
+
+sumber :
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+offcanvas
+navbar
+cards
+input groups
